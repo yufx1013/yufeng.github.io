@@ -2,7 +2,7 @@ name: "yufeng blog"
 description: "哇哈哈的个人技术博客"
 
 avatar: https://cdn.jsdelivr.net/gh/yufx1013/yufeng/img/abstract-8750691_1920.jpg
-favicon: https://yufeng.github.io/images/favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/yufx1013/yufeng/img/icon.ico
 
 navigation:
   - name: 首页
